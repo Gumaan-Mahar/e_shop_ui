@@ -1,0 +1,61 @@
+name: e_shop_ui
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  get: ^4.6.6
+  dio: ^5.4.2+1
+  talker_flutter: ^4.1.2
+  talker_dio_logger: ^4.1.2
+  flutter_screenutil: ^5.9.0
+  flutter_remix: ^0.0.3
+  flutter_rating_bar: ^4.0.1
+  flutter_svg: ^2.0.9
+  pinput: ^3.0.1
+  timer_count_down: ^2.2.2
+  infinite_scroll_pagination: ^4.0.0
+  date_format: ^2.0.7
+  image_picker: ^1.0.4
+  flutter_colorpicker: ^1.0.3
+  flutter_slidable: ^3.0.1
+  flutter_easyloading: ^3.0.5
+  flutter_secure_storage: ^9.0.0
+  shimmer: ^3.0.0
+  easy_debounce: ^2.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/fonts/
+    - assets/fonts/ClashDisplay/
+    - assets/gifs/
+    - assets/icons/
+    - assets/images/
+
+  fonts:
+    - family: ClashDisplay
+      fonts:
+        - asset: assets/fonts/ClashDisplay/ClashDisplay-Light.otf
+        - asset: assets/fonts/ClashDisplay/ClashDisplay-ExtraLight.otf
+        - asset: assets/fonts/ClashDisplay/ClashDisplay-Regular.otf
+        - asset: assets/fonts/ClashDisplay/ClashDisplay-Medium.otf
+        - asset: assets/fonts/ClashDisplay/ClashDisplay-Semibold.otf
+        - asset: assets/fonts/ClashDisplay/ClashDisplay-Bold.otf
+
