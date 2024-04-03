@@ -1,16 +1,86 @@
-# e_shop_ui
+# Introduction
+E-Shop UI is a Flutter project aiming to provide a sleek and user-friendly interface for an e-commerce application. This project showcases various screens typically found in an e-commerce app, including product listings, product details, cart, search, wishlist, profile, shops, categories, banners, and checkout.
 
-A new Flutter project.
 
-## Getting Started
+# Contributions
+Contributions are welcome! If you'd like to contribute to this project, feel free to submit a pull request.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Screenshots
+[![Image1](https://i.postimg.cc/212B2nYZ/Whats-App-Image-2024-03-31-at-10-52-22-PM.jpg)](https://postimg.cc/212B2nYZ)
+[![Image2](https://i.postimg.cc/WDzqKtpf/Whats-App-Image-2024-03-31-at-10-52-23-PM.jpg)](https://postimg.cc/WDzqKtpf)
+[![Image3](https://i.postimg.cc/gLVxRZ4r/Whats-App-Image-2024-03-31-at-10-52-24-PM.jpg)](https://postimg.cc/gLVxRZ4r)
+[![Image4](https://i.postimg.cc/XBSZp8fT/Whats-App-Image-2024-03-31-at-10-52-24-PM-1.jpg)](https://postimg.cc/XBSZp8fT)
+[![Image5](https://i.postimg.cc/r0t0Vbr1/Whats-App-Image-2024-03-31-at-10-52-25-PM.jpg)](https://postimg.cc/r0t0Vbr1)
+[![Image6](https://i.postimg.cc/dZj0DKty/Whats-App-Image-2024-03-31-at-10-52-27-PM.jpg)](https://postimg.cc/dZj0DKty)
+[![Image7](https://i.postimg.cc/SJms3jD7/Whats-App-Image-2024-03-31-at-10-52-27-PM-1.jpg)](https://postimg.cc/SJms3jD7)
+[![Image8](https://i.postimg.cc/H8gxpLHm/Whats-App-Image-2024-03-31-at-10-52-28-PM.jpg)](https://postimg.cc/H8gxpLHm)
+[![Image9](https://i.postimg.cc/hJNv5r5f/Whats-App-Image-2024-03-31-at-10-52-30-PM.jpg)](https://postimg.cc/hJNv5r5f)
+[![Image10](https://i.postimg.cc/G8YtwyWz/Whats-App-Image-2024-03-31-at-10-52-30-PM-1.jpg)](https://postimg.cc/G8YtwyWz)
+[![Image11](https://i.postimg.cc/gnpXpgkh/Whats-App-Image-2024-03-31-at-10-52-35-PM.jpg)](https://postimg.cc/gnpXpgkh)
+[![Image12](https://i.postimg.cc/DWN4KF8f/Whats-App-Image-2024-03-31-at-10-52-36-PM-1.jpg)](https://postimg.cc/DWN4KF8f)
+[![Image13](https://i.postimg.cc/HrsrcjMs/Whats-App-Image-2024-03-31-at-10-52-36-PM-2.jpg)](https://postimg.cc/HrsrcjMs)
+[![Image14](https://i.postimg.cc/MnPvyx00/Whats-App-Image-2024-03-31-at-10-52-37-PM.jpg)](https://postimg.cc/MnPvyx00)
+[![Image15](https://i.postimg.cc/Tpcy3np4/Whats-App-Image-2024-03-31-at-10-52-37-PM-1.jpg)](https://postimg.cc/Tpcy3np4)
+[![Image16](https://i.postimg.cc/rdDzjbgB/Whats-App-Image-2024-03-31-at-10-52-38-PM.jpg)](https://postimg.cc/rdDzjbgB)
+[![Image17](https://i.postimg.cc/ykndHBGq/Whats-App-Image-2024-03-31-at-10-52-39-PM.jpg)](https://postimg.cc/ykndHBGq)
+[![Image18](https://i.postimg.cc/Bj6vZkWj/Whats-App-Image-2024-03-31-at-10-52-39-PM-1.jpg)](https://postimg.cc/Bj6vZkWj)
+[![Image19](https://i.postimg.cc/grVjg3q2/Whats-App-Image-2024-03-31-at-10-52-39-PM-2.jpg)](https://postimg.cc/grVjg3q2)
+[![Image20](https://i.postimg.cc/ftxzghdr/Whats-App-Image-2024-03-31-at-10-52-40-PM.jpg)](https://postimg.cc/ftxzghdr)
+[![Image21](https://i.postimg.cc/14wnbkPP/Whats-App-Image-2024-03-31-at-10-52-40-PM-1.jpg)](https://postimg.cc/14wnbkPP)
+[![Image22](https://i.postimg.cc/Ffks3SHm/Whats-App-Image-2024-03-31-at-10-52-41-PM.jpg)](https://postimg.cc/Ffks3SHm)
+[![Image23](https://i.postimg.cc/hX5tXsgp/Whats-App-Image-2024-03-31-at-10-52-41-PM-1.jpg)](https://postimg.cc/hX5tXsgp)
+[![Image24](https://i.postimg.cc/Cn7FSHmC/Whats-App-Image-2024-03-31-at-10-52-42-PM.jpg)](https://postimg.cc/Cn7FSHmC)
+[![Image25](https://i.postimg.cc/9zhZXmLz/Whats-App-Image-2024-03-31-at-10-52-44-PM.jpg)](https://postimg.cc/9zhZXmLz)
+[![Image26](https://i.postimg.cc/tnpXKmtC/Whats-App-Image-2024-03-31-at-10-52-44-PM-1.jpg)](https://postimg.cc/tnpXKmtC)
+[![Image27](https://i.postimg.cc/vc8n9PFs/Whats-App-Image-2024-03-31-at-10-52-45-PM.jpg)](https://postimg.cc/vc8n9PFs)
+[![Image28](https://i.postimg.cc/PNQZPg7y/Whats-App-Image-2024-03-31-at-10-52-45-PM-1.jpg)](https://postimg.cc/PNQZPg7y)
+[![Image29](https://i.postimg.cc/qzm3G84C/Whats-App-Image-2024-03-31-at-10-52-49-PM.jpg)](https://postimg.cc/qzm3G84C)
+[![Image30](https://i.postimg.cc/R6z60dQ2/Whats-App-Image-2024-03-31-at-10-52-49-PM-1.jpg)](https://postimg.cc/R6z60dQ2)
+[![Image31](https://i.postimg.cc/Mnvj3vp3/Whats-App-Image-2024-03-31-at-10-52-50-PM.jpg)](https://postimg.cc/Mnvj3vp3)
+[![Image32](https://i.postimg.cc/hhszS9J3/Whats-App-Image-2024-03-31-at-10-52-50-PM-1.jpg)](https://postimg.cc/hhszS9J3)
+[![Image33](https://i.postimg.cc/JyXHmvJb/Whats-App-Image-2024-03-31-at-10-52-51-PM.jpg)](https://postimg.cc/JyXHmvJb)
+[![Image34](https://i.postimg.cc/FY8kMNfr/Whats-App-Image-2024-03-31-at-10-52-51-PM-1.jpg)](https://postimg.cc/FY8kMNfr)
+[![Image35](https://i.postimg.cc/Lg9JtsWT/Whats-App-Image-2024-03-31-at-10-52-52-PM.jpg)](https://postimg.cc/Lg9JtsWT)
+[![Image36](https://i.postimg.cc/xJykNm68/Whats-App-Image-2024-03-31-at-10-52-52-PM-1.jpg)](https://postimg.cc/xJykNm68)
+[![Image37](https://i.postimg.cc/2V5q3Vhj/Whats-App-Image-2024-03-31-at-10-52-53-PM.jpg)](https://postimg.cc/2V5q3Vhj)
+[![Image38](https://i.postimg.cc/Rq4J5P0H/Whats-App-Image-2024-03-31-at-10-52-53-PM-1.jpg)](https://postimg.cc/Rq4J5P0H)
+[![Image39](https://i.postimg.cc/tZ5T4jgV/Whats-App-Image-2024-03-31-at-10-52-54-PM.jpg)](https://postimg.cc/tZ5T4jgV)
+[![Image40](https://i.postimg.cc/SXcRH8Fd/Whats-App-Image-2024-03-31-at-10-52-54-PM-1.jpg)](https://postimg.cc/SXcRH8Fd)
+[![Image41](https://i.postimg.cc/ykrDRsym/Whats-App-Image-2024-03-31-at-10-52-55-PM.jpg)](https://postimg.cc/ykrDRsym)
+[![Image42](https://i.postimg.cc/PCgN6ycN/Whats-App-Image-2024-03-31-at-10-52-56-PM.jpg)](https://postimg.cc/PCgN6ycN)
+[![Image43](https://i.postimg.cc/jnSjWFW3/Whats-App-Image-2024-03-31-at-10-52-56-PM-1.jpg)](https://postimg.cc/jnSjWFW3)
+[![Image44](https://i.postimg.cc/tsZYtwBL/Whats-App-Image-2024-03-31-at-10-52-56-PM-2.jpg)](https://postimg.cc/tsZYtwBL)
+[![Image45](https://i.postimg.cc/hhDv3fC8/Whats-App-Image-2024-03-31-at-10-52-57-PM.jpg)](https://postimg.cc/hhDv3fC8)
+[![Image46](https://i.postimg.cc/KkFjbzm2/Whats-App-Image-2024-03-31-at-10-52-58-PM.jpg)](https://postimg.cc/KkFjbzm2)
+[![Image47](https://i.postimg.cc/dhyVTd1F/Whats-App-Image-2024-03-31-at-10-53-00-PM.jpg)](https://postimg.cc/dhyVTd1F)
+[![Image48](https://i.postimg.cc/vcDBbCwc/Whats-App-Image-2024-03-31-at-10-53-00-PM-1.jpg)](https://postimg.cc/vcDBbCwc)
+[![Image49](https://i.postimg.cc/7bZPnj6m/Whats-App-Image-2024-03-31-at-10-53-04-PM.jpg)](https://postimg.cc/7bZPnj6m)
+[![Image50](https://i.postimg.cc/F1TztNqM/Whats-App-Image-2024-03-31-at-10-53-04-PM-1.jpg)](https://postimg.cc/F1TztNqM)
+[![Image51](https://i.postimg.cc/1n9mTjKR/Whats-App-Image-2024-03-31-at-10-53-04-PM-2.jpg)](https://postimg.cc/1n9mTjKR)
+[![Image52](https://i.postimg.cc/N5V0MbQb/Whats-App-Image-2024-03-31-at-10-53-05-PM.jpg)](https://postimg.cc/N5V0MbQb)
+[![Image53](https://i.postimg.cc/GTtc3TNZ/Whats-App-Image-2024-03-31-at-10-53-05-PM-1.jpg)](https://postimg.cc/GTtc3TNZ)
+[![Image54](https://i.postimg.cc/R6XSzLP7/Whats-App-Image-2024-03-31-at-10-53-06-PM.jpg)](https://postimg.cc/R6XSzLP7)
+[![Image55](https://i.postimg.cc/GBnhP28y/Whats-App-Image-2024-03-31-at-10-53-06-PM-1.jpg)](https://postimg.cc/GBnhP28y)
+[![Image56](https://i.postimg.cc/zLwDxrKP/Whats-App-Image-2024-03-31-at-10-53-06-PM-2.jpg)](https://postimg.cc/zLwDxrKP)
+[![Image57](https://i.postimg.cc/LnrHRXVb/Whats-App-Image-2024-03-31-at-10-53-07-PM.jpg)](https://postimg.cc/LnrHRXVb)
+[![Image58](https://i.postimg.cc/xck0WHLm/Whats-App-Image-2024-03-31-at-10-53-07-PM-1.jpg)](https://postimg.cc/xck0WHLm)
+[![Image59](https://i.postimg.cc/jwdTvJsL/Whats-App-Image-2024-03-31-at-10-53-12-PM.jpg)](https://postimg.cc/jwdTvJsL)
+[![Image60](https://i.postimg.cc/MX36Ptfx/Whats-App-Image-2024-03-31-at-10-53-12-PM-1.jpg)](https://postimg.cc/MX36Ptfx)
+[![Image61](https://i.postimg.cc/hJMWJP9g/Whats-App-Image-2024-03-31-at-10-53-13-PM.jpg)](https://postimg.cc/hJMWJP9g)
+[![Image62](https://i.postimg.cc/ns1Zv1fy/Whats-App-Image-2024-03-31-at-10-53-13-PM-1.jpg)](https://postimg.cc/ns1Zv1fy)
+[![Image63](https://i.postimg.cc/FdW46sRG/Whats-App-Image-2024-03-31-at-10-53-14-PM.jpg)](https://postimg.cc/FdW46sRG)
+[![Image64](https://i.postimg.cc/SX4k2v3L/Whats-App-Image-2024-03-31-at-10-53-14-PM-1.jpg)](https://postimg.cc/SX4k2v3L)
+[![Image65](https://i.postimg.cc/HrXTLgZs/Whats-App-Image-2024-03-31-at-10-53-14-PM-2.jpg)](https://postimg.cc/HrXTLgZs)
+[![Image66](https://i.postimg.cc/f3MQT0SB/Whats-App-Image-2024-03-31-at-10-53-15-PM.jpg)](https://postimg.cc/f3MQT0SB)
+[![Image67](https://i.postimg.cc/FkY4X5kv/Whats-App-Image-2024-03-31-at-10-53-15-PM-1.jpg)](https://postimg.cc/FkY4X5kv)
+[![Image68](https://i.postimg.cc/Q9n2b44y/Whats-App-Image-2024-03-31-at-10-53-16-PM.jpg)](https://postimg.cc/Q9n2b44y)
+[![Image69](https://i.postimg.cc/bZcjW5yX/Whats-App-Image-2024-03-31-at-10-53-16-PM-1.jpg)](https://postimg.cc/bZcjW5yX)
+[![Image70](https://i.postimg.cc/8sYGB5xz/Whats-App-Image-2024-03-31-at-10-53-16-PM-2.jpg)](https://postimg.cc/8sYGB5xz)
+[![Image71](https://i.postimg.cc/Xpyb2W0c/Whats-App-Image-2024-03-31-at-10-53-17-PM.jpg)](https://postimg.cc/Xpyb2W0c)
+[![Image72](https://i.postimg.cc/r0m65XJ4/Whats-App-Image-2024-03-31-at-10-53-17-PM-1.jpg)](https://postimg.cc/r0m65XJ4)
+[![Image73](https://i.postimg.cc/5XMZnFgb/Whats-App-Image-2024-03-31-at-10-53-18-PM.jpg)](https://postimg.cc/5XMZnFgb)
+[![Image74](https://i.postimg.cc/HrwCgtnr/Whats-App-Image-2024-03-31-at-10-53-18-PM-1.jpg)](https://postimg.cc/HrwCgtnr)
+[![Image75](https://i.postimg.cc/bSDKFx4N/Whats-App-Image-2024-03-31-at-10-53-18-PM-2.jpg)](https://postimg.cc/bSDKFx4N)
+[![Image76](https://i.postimg.cc/ppjwfBDs/Whats-App-Image-2024-03-31-at-10-53-19-PM.jpg)](https://postimg.cc/ppjwfBDs)
+[![Image77](https://i.postimg.cc/K41Szb4S/Whats-App-Image-2024-03-31-at-10-53-19-PM-1.jpg)](https://postimg.cc/K41Szb4S)
+[![Image78](https://i.postimg.cc/MXgkfLjc/Whats-App-Image-2024-03-31-at-10-53-20-PM.jpg)](https://postimg.cc/MXgkfLjc)
